@@ -218,7 +218,7 @@ While manual creation works for a few sprites, managing many regions becomes cum
 1. Create a new file named `atlas-definition` in the *Content/images* folder using "Add -> New Item -> XML Content".
 1. In the properties panel at the bottom for the `atlas-definition.xml` file, change the *`Build Action`* property from `Build` to *`Copy`*.
 1. Save the changes and close the MGCB Editor
-1. Open the new `atlas-definition.xml` file in your code editor (The MGCB editor cannot edit files, only manage the what content it builds)
+1. Open the new `atlas-definition.xml` file in your code editor (The MGCB editor cannot edit files, only manage what content it builds)
 1. Replace the contents of the XML file with the following:
 
     [!code-xml[](./snippets/atlas_definition.xml)]
