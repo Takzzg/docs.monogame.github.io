@@ -31,7 +31,7 @@ public class Game1 : Core
         // Load the atlas texture using the content manager
         Texture2D atlasTexture = Content.Load<Texture2D>("images/atlas");
 
-        //  Create a TextureAtlas instance from the atlas
+        // Create a TextureAtlas instance from the atlas
         TextureAtlas atlas = new TextureAtlas(atlasTexture);
 
         // add the slime region to the atlas.
