@@ -48,7 +48,7 @@ Add the following constructors:
 
 ### Methods
 
-Finally, add the following two method to the `Sprite` class:
+Finally, add the following two methods to the `Sprite` class:
 
 [!code-csharp[](./snippets/sprite.cs#methods)]
 
